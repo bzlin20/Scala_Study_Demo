@@ -25,14 +25,14 @@ Scala 学习代码
     数组常用算法    
     多维数组    
 ## 4、Scala 集合相关   
-    Scala 集合   
-    Scala 序列--List   
-    Scala 集合--Set  
-    Scala 集合--Map   
-    Scala 映射—Map   
-          构建 Map   
-          获取和修改 Map 中的值   
-    Scala 元组  
+  Scala 集合   
+  Scala 序列--List   
+  Scala 集合--Set  
+  Scala 集合--Map   
+  Scala 映射—Map   
+        构建 Map   
+        获取和修改 Map 中的值   
+  Scala 元组  
 
 # 二、Scala 面向对象
 ## 1、Scala 类  
@@ -59,5 +59,25 @@ Scala 学习代码
    匹配类型  
    匹配数组、元组、集合  
    样例类  
-   偏函数  
+   偏函数    
+
+# 五、Scala 函数式编程     
+## 1、高阶函数和闭包    
+   定义函数  
+   匿名函数  
+   数的各种写法  
+   高阶函数  
+   函数返回值为函数  
+   函数/方法的参数为函数  
+   闭包  
+## 2、Scala 隐式转换和隐式参数   
+   Scala 隐式转换探讨   
+   隐式转换的发生时机  
+   时机一：当调用某个对象不存在的方法时  
+   时机二：当方法参数类型不匹配时  
+   时机三：在视图边界的时候  
+## 3、Scala 泛型     
+    Scala 泛型基础   
+    Scala 类型变量界定   
+
     
