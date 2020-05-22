@@ -19,11 +19,11 @@ Scala 学习代码
     将方法转换成函数使用  
   Scala 函数式编程特点   
 ## 3、Scala 数组 Array  
-    定长数组和变长数组    
-    遍历数组    
-    数组转换    
-    数组常用算法    
-    多维数组    
+   定长数组和变长数组    
+   遍历数组    
+   数组转换    
+   数组常用算法    
+   多维数组    
 ## 4、Scala 集合相关   
   Scala 集合   
   Scala 序列--List   
@@ -55,7 +55,7 @@ Scala 学习代码
    为实例对象混入 Trait  
    Trait 调用链   
 ## 5、Scala 的模式匹配   
-   匹配字符串  
+   匹配字符串  https://github.com/qyllt123/Scala_Study_Demo/blob/master/README.md
    匹配类型  
    匹配数组、元组、集合  
    样例类  
